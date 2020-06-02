@@ -1,1 +1,1 @@
-# BitbucketWorkshop
+# GitHubWorkshop
