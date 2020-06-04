@@ -3,6 +3,8 @@
 
 ## Class
 
+- Jillian Rash
+    - I have three orange cats.
 - Shreya Gazawada
     - I like watching horror movies
 -Victoria Mei
