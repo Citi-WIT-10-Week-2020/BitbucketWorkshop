@@ -23,7 +23,7 @@
 - Joshua Johnson
     - Sometimes I race cars
 - Tylor 
-    - He plays a lot of golf
+    - He has played golf for 12 years
 - Maria
     - My favorite hobby is photography.
 - Kyla
