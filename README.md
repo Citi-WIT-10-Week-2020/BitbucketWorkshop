@@ -4,13 +4,13 @@
 ## Class
 
 
--Leah Dantin
-    -I fled a country because of corona
+- Leah Dantin
+    - I fled a country because of corona
 
--Katie Duncan
-    -My favorite way to relax is to read Ancient Latin texts.
--Dina Zakaria
-    -I can read Korean, but can't understand it
+- Katie Duncan
+    - My favorite way to relax is to read Ancient Latin texts.
+- Dina Zakaria
+    - I can read Korean, but can't understand it
 - Anjali Massand
   - I love to travel.
 - Jillian Rash
@@ -26,6 +26,8 @@
 - Tylor 
     - He plays a lot of golf
 -Kyla
-    -I like to sew
+    - I like to sew
 -Kymberlee
-    -I like games.
+    - I like games.
+-Ashley
+    - I ride horses
