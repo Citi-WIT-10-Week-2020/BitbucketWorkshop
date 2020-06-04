@@ -5,6 +5,10 @@
 - Leah Dantin
     - I fled a country because of corona
 
+## Class
+
+- Shannon Campbell
+    - I love the beach and surfing
 - Katie Duncan
     - My favorite way to relax is to read Ancient Latin texts.
 - Dina Zakaria
