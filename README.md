@@ -3,6 +3,8 @@
 
 ## Class
 
+-Katie Duncan
+    -My favorite way to relax is to read Ancient Latin texts.
 -Dina Zakaria
     -I can read Korean, but can't understand it
 - Anjali Massand
@@ -19,3 +21,4 @@
     - Sometimes I race cars
 - Tylor 
     - He plays a lot of golf
+
