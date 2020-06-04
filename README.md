@@ -27,3 +27,5 @@
     - He plays a lot of golf
 -Kyla
     -I like to sew
+-Ashley
+    -I ride horses
