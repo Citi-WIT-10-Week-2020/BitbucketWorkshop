@@ -1,5 +1,7 @@
 ## Squad
 
+- Anusha Jain
+    - I like to ski!
 - Samah Khan
     - I'm trying to learn to skateboard.
 - Leah Dantin
