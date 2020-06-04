@@ -1,9 +1,7 @@
-
-# GitHubWorkshop
-
 ## Class
 
-
+- Samah Khan
+    - I'm trying to learn to skateboard.
 - Leah Dantin
     - I fled a country because of corona
 
