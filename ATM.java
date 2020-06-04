@@ -28,7 +28,7 @@ public class SkeletonATM
     }
 
 		// removes the amount requested from the account if it does not overdraw
-		// returns request if successful, returns 0 if nothing was changed
+		// returns reserve if successful, returns 0 if nothing was changed
     public double withdraw(double request)
 		{
 				if (reserve-request < 0)
@@ -39,12 +39,15 @@ public class SkeletonATM
 				{
 					reserve = reserve-request;
 				}
-        return request;
+        return reserve;
     }
 
+		// adds the deposit amount to the reserve
+		// if the input is negative, no modifications made
     public void deposit(double input)
 		{
-
+			if (input > 0)
+				reserve = reserve + input;
     }
 
 
