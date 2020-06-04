@@ -1,12 +1,9 @@
-## Class
+## Squad
 
 - Samah Khan
     - I'm trying to learn to skateboard.
 - Leah Dantin
     - I fled a country because of corona
-
-## Class
-
 - Shannon Campbell
     - I love the beach and surfing
 - Katie Duncan
@@ -19,7 +16,7 @@
     - I have three orange cats.
 - Shreya Gazawada
     - I like watching horror movies
--Victoria Mei
+- Victoria Mei
     -I eat cereal in two bowls
 - Caitlin Lambert
     - I play ultimate frisbee.
