@@ -18,7 +18,15 @@ public class SkeletonATM{
         return false;
     }
     public double withdraw(double request){
-        return 0;
+        if(request <= bank_account && request <= reserve){
+            bank_account -= request;
+            reserve -= request;
+            return request;
+        }
+        else{
+            return 0;
+        }
+        
     }
  
     public void deposit(double input){
