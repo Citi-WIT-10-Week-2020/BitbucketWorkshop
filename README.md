@@ -1,5 +1,7 @@
 ## Squad
 
+- Emily Kelsey
+    - I am originally from Indiana
 - Ishita Rastogi
     - I like to bake a lot
 - Anusha Jain
