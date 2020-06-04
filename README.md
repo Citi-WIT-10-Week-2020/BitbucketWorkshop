@@ -3,8 +3,5 @@
 
 ## Class
 
-# hi
-
 -Leah Dantin
-
-I fled a country because of corona
+    -I fled a country because of corona
