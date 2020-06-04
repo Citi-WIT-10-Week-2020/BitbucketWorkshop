@@ -3,8 +3,10 @@
 
 ## Class
 
+-Dina Zakaria
+    -I can read Korean, but can't understand it
 - Anjali Massand
-- I love to travel.
+  - I love to travel.
 - Jillian Rash
     - I have three orange cats.
 - Shreya Gazawada
