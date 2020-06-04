@@ -2,6 +2,9 @@
 # GitHubWorkshop
 
 ## Class
+
+- Shreya Gazawada
+    - I like watching horror movies
 -Victoria Mei
     -I eat cereal in two bowls
 
