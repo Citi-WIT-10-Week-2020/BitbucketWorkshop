@@ -1,5 +1,7 @@
 ## Squad
 
+- Ishita Rastogi
+    - I like to bake a lot
 - Anusha Jain
     - I like to ski!
 - Samah Khan
