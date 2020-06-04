@@ -2,6 +2,11 @@
 # GitHubWorkshop
 
 ## Class
+EmilyHannon
+
+- Emily Hannon
+  - When I'm not coding, I like gardening + growing herbs.
+  
 -Victoria Mei
     -I eat cereal in two bowls
 
@@ -12,3 +17,4 @@
 
 - Tylor 
     - He plays a lot of golf
+
