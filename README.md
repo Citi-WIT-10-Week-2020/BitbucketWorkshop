@@ -3,6 +3,10 @@
 
 ## Class
 
+
+-Leah Dantin
+    -I fled a country because of corona
+
 -Katie Duncan
     -My favorite way to relax is to read Ancient Latin texts.
 -Dina Zakaria
