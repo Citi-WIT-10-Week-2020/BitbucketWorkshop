@@ -25,9 +25,11 @@
     - Sometimes I race cars
 - Tylor 
     - He plays a lot of golf
--Kyla
+- Maria
+    - My favorite hobby is photography.
+- Kyla
     - I like to sew
--Kymberlee
+- Kymberlee
     - I like games.
--Ashley
+- Ashley
     - I ride horses
